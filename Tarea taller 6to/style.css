@@ -1,0 +1,370 @@
+body {
+    background:  #FFF ;
+    background-repeat: no-repeat;
+    height: 100%;
+    margin: 0%;
+    background-attachment: fixed;
+}
+
+.inicio{
+    
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color: #FFF;
+    text-decoration: underline;
+    background-color: #103944;
+    padding: 3%;
+}
+
+
+.titulo{
+    text-align: center;
+    background-color: #103944;
+}
+
+.panel{
+    background-color: #103944;
+}
+
+.imgRedonda {
+    width:15%;
+    height:15%;
+    border-radius:150%;
+    border:10px solid #735E46 ;
+    margin-top: 1%;
+    margin-left: 2%;
+    margin-right: 3%;
+}
+
+.texto{
+    color: #FFF;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 0.5%;
+    padding-right: 0.4%;
+    background-color: #103944;
+}
+
+.enlaces{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 15px auto;
+}
+
+.nav-enlace{
+  display: inline-block;
+  color: #FFF;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding: 20px 20px;
+  text-decoration: none;
+  margin-top: none;
+  border-radius: 10px;
+  background-color: #103944;
+}
+
+.nav-enlace:hover{
+  text-decoration:underline;
+  border-radius: 10px;
+}
+
+nav{
+  background-color: #103944;
+  padding: 30px;
+} 
+
+.imagenes{
+    width:15%;
+    height:15%;
+    border-radius:150%;
+    border:10px solid #103944 ;
+    margin-top: 10%;
+    margin-left: 2%;
+    margin-right: 3%;
+}
+
+.kinal{
+    background-color: #02003e;
+    padding: 30px;
+}
+
+.nav-kinal{
+    display: inline-block;
+    color: #FFF;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 5px 35px;
+    text-decoration: none;
+    margin-top: 2px;
+    border-radius: 10px;
+    background-color: #02003e;
+}
+
+.nav-kinal:hover{
+    text-decoration:underline;
+    border-radius: 10px;
+}
+
+.texto1{
+    padding-top: 12%;
+    padding-left: 5%;
+    padding-right: 25%;
+}
+
+.texto2{
+    padding-top: 3%;
+    padding-left: 5%;
+    padding-right: 25%;
+}
+
+.lin1{
+    margin-top: 7%;
+}
+
+.subTitulos{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    text-align: center;
+    color: #103944;
+}
+
+.texto3{
+    text-align: center;
+    padding-top: 2%;
+    padding-left: 15%;
+    padding-right: 15%;
+
+}
+ 
+.texto4{
+    padding-top: 12%;
+    padding-left: 25%;
+    padding-right: 5%;
+
+}
+
+.texto5{
+    padding-top: 2%;
+    padding-left: 25%;
+    padding-right: 5%;
+}
+
+.imagen-kinal{
+    margin-top: 4%;
+    margin-left: 2%;
+    border-radius: 2%;
+    border: 20px solid #02003e;
+}
+
+.texto-kinal{
+    font-size: x-large;
+    text-align: center;
+    margin-top: 5%;
+    color: #02003e;
+    font-weight: bold;
+}
+
+.parrafo-kinal{
+    font-size: medium;
+    padding-left: 50%;
+    padding-right: 8%;
+    color: #02003e;
+    font-weight: lighter;
+    text-align: center;
+}
+
+.kinal-panel{
+    width: 100%;
+    height: 75vh;
+}
+
+.kinal-imagen{
+    width: 100%;
+    height: 100%;
+} 
+
+.contenedor{
+    margin-top: 5%;
+    height: 60vh;
+    margin-bottom: 5%;
+}
+
+.prueba{
+    margin-left: 10%;
+    margin-right: 5%;
+    width: 35%;
+    height: 80vh;
+    float: left;
+    background-color: #02003e;
+    border-radius: 100px 100px 100px 100px;
+}
+
+.prueba1{
+    border-radius: 100px 100px 100px 100px;
+    margin-left: 5%;
+    margin-right: 10%;
+    width: 35%;
+    height: 35vh;
+    float: left;
+    background-color: #700027;
+}
+
+.prueba2{
+    margin-top: 5%;
+    border-radius: 100px 100px 100px 100px;
+    margin-left: 5%;
+    margin-right: 10%;
+    width: 35%;
+    height: 35vh;
+    float: left;
+    background-color: #700027;
+} 
+
+.contenedor2{
+    width: 40%;
+    height: 3vh;
+    background-color: #FFF;
+    margin-left: 30%;
+    border-radius: 100px 0px 100px 0px;
+    margin-top: 5%;
+}
+
+.contenedor6{
+    width: 60%;
+    height: 3vh;
+    background-color: #FFF;
+    margin-left: 20%;
+    border-radius: 100px 0px 100px 0px;
+    margin-top: 1%;
+}
+
+.parrafo-kinal1{
+    font-size: medium;
+    align-items: center;
+    color: #02003e;
+    font-weight: lighter;
+    text-align: center;
+    padding-top: 1%;
+}
+
+.parrafo-carreras{
+    font-size: medium;
+    align-items: center;
+    color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: lighter;
+    text-align: center;
+    padding-top: 2%;
+}
+
+.contenedor3{
+    width: 20%;
+    height: 70vh;
+    margin-left: 10%;
+    background-color: #FFF;
+    float: left;
+    border-radius: 100px 100px 100px 100px;
+}
+
+.imagen1{
+    width: 100%;
+    height: 45vh;
+}
+
+.imagen2{
+    padding-left: 20%;
+    width: 60%;
+    height: 45vh ;
+}
+
+.contenedor5{
+    margin-top: 3%;
+    width: 100%;
+    height: auto;
+}
+
+.contenedor4{
+    width: 90%;
+    height: 4vh;
+    background-color: #02003e;
+    margin-left: 5%;
+    border-radius: 100px 0px 100px 0px;
+    margin-top: 5%;
+}
+
+.parrafo-blanco{
+    font-size: medium;
+    align-items: center;
+    color: #FFF;
+    font-weight: lighter;
+    text-align: center;
+    padding-top: 1%;
+}
+
+.clearfix::after{
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.texto-kinal1{
+    font-size: x-large;
+    text-align: center;
+    margin-top: 5%;
+    color: #FFF;
+    font-weight: bold;
+}
+
+.box-caja{
+    margin-top: 3%;
+    width: 100%;
+    height: auto;
+    background-color: #02003e;
+    padding-bottom: 3%;
+}
+
+
+
+.box-cajita{
+    padding: 1%;
+}
+
+.esc-tecnica{
+    margin-left: 9%;
+    width: 19%;
+    height: 50vh;
+    float: left;
+    background-color: #F585BF;
+    text-align: center;
+}
+
+.basico{
+    margin-left: 2%;
+    width: 19%;
+    height: 50vh;
+    float: left;
+    background-color: #700027;
+    text-align: center;
+}
+
+.diver{
+    margin-left: 2%;
+    width: 19%;
+    height: 50vh;
+    float: left;
+    background-color: #67F46E;
+    text-align: center;
+}
+
+.total{
+    margin-left: 2%;
+    width: 19%;
+    height: 50vh;
+    float: left;
+    background-color: #F4720B;
+    text-align: center;
+}
+
+.textoGrande{
+    padding-top: 10%;
+    font-size: 6rem;
+    color: #FFF;
+    font-weight: bold;
+    display: inline-block;
+    margin: 0 auto;
+}
